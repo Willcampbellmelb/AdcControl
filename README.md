@@ -1,2 +1,9 @@
-# AdvancedControl
-Notes, ressources and programs related to Advanced Control Systems (ELEN90064): Discrete state space control,
+# Control System Ressource list
+
+A curated list of awesome Control systems resources.
+
+## Content
+
+## Linerization
+
+[Brian Douglas Matlab intro: trimming and Linerization](https://www.google.com)
